@@ -1,4 +1,4 @@
-# Proiect Ingineria Programelor \n Bubble Sorting
+# Proiect Ingineria Programelor Bubble Sorting
 
 Coordonator, Student,
 

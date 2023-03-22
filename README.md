@@ -1,8 +1,8 @@
-Proiect
+#Proiect
 
-Ingineria Programelor
+#Ingineria Programelor
 
-Bubble Sorting
+##Bubble Sorting
 
 Coordonator, Student,
 

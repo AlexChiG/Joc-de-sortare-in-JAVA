@@ -1,13 +1,11 @@
 # Proiect ~ Ingineria Programelor ~ Bubble Sorting
 
-Coordonator, Student,
+Coordonator, Cristian Sandu
 
-Cristian Sandu Chitiga Alexandru Gabriel
+Student, Chitiga Alexandru Gabriel
 
 ANUL III CTI
-
 GRUPA 22C32 A
-
 AN 2022-2023
 
 **Cuprins**

@@ -1,7 +1,5 @@
 # Proiect ~ Ingineria Programelor ~ Bubble Sorting
 
-Coordonator, Cristian Sandu
-
 Student, Chitiga Alexandru Gabriel
 
 ANUL III CTI
